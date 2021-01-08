@@ -1,0 +1,203 @@
+.BackDiv{
+ 
+
+  /* background-image: url("../Navlink/Image/luk.jpg");
+  background-size: contain; */
+ 
+}
+.Boxdiv{
+  width:100vw;
+  height:300px;
+  display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+ font-family: poppins;
+ 
+ 
+
+}
+
+.Boxdiv1{
+  width:100vw;
+  height:300px;
+  display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+
+ 
+
+}
+
+@media screen and (max-width: 760px) {
+  .Boxdiv {
+    display:flex;
+    justify-content:center;
+    align-items: stretch;
+    flex-direction: column;
+    height: 1000px;
+    width: 100%;
+  
+  }
+}
+
+ @media screen and (max-width: 760px) {
+  .Boxdiv1 {
+    display:flex;
+    justify-content:center;
+    align-items: stretch;
+    flex-direction: column-reverse;
+    height: 1000px;
+    width: 100%;
+  
+  
+  }
+}
+
+.Box1{
+  height:300px;
+  width:337.2px;
+  background-color: lightgrey;
+  border-radius: 4px;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+
+
+}
+@media screen and (max-width: 760px) {
+  .Box1 {
+    
+    height: 1000px;
+    width: 100%;
+  
+  
+  }
+}
+
+
+.Box2{
+  height:300px;
+  width:337.2px;
+  background-color: whitesmoke;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+@media screen and (max-width: 760px) {
+  .Box2 {
+    
+    height: 1000px;
+    width: 100%;
+  
+  
+  }
+}
+
+
+.Box3{
+  height:300px;
+  width:337.2px;
+  background-color: lightgrey;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+@media screen and (max-width: 760px) {
+  .Box3 {
+    
+    height: 1000px;
+    width: 100%;
+  
+  
+  }
+}
+
+
+.Box4{
+  height:300px;
+  width:337.2px;
+  background-color: white;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+@media screen and (max-width: 760px) {
+  .Box4 {
+    
+    height: 1000px;
+    width: 100%;
+  
+  
+  }
+}
+
+.Box5{
+  height:300px;
+  width:337.2px;
+  background-color: white;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+@media screen and (max-width: 760px) {
+  .Box5 {
+    
+    height: 1000px;
+    width: 100%;
+  
+  
+  }
+}
+
+.Box6{
+  height:300px;
+  width:337.2px;
+  background-color: lightgrey;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+@media screen and (max-width: 760px) {
+  .Box6 {
+    
+    height: 1000px;
+    width: 100%;
+  
+  
+  }
+}
+
+.Box7{
+  height:300px;
+  width:337.2px;
+  background-color: white;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+@media screen and (max-width: 760px) {
+  .Box7 {
+    
+    height: 1000px;
+    width: 100%;
+  
+  
+  }
+}
+
+.Box8{
+  height:300px;
+  width:337.2px;
+  background-color: lightgrey;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+} 
+
+@media screen and (max-width: 760px) {
+  .Box8 {
+    
+    height: 1000px;
+    width: 100%;
+  
+  
+  }
+}
