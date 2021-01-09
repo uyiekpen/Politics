@@ -38,7 +38,7 @@ const NavBar = ({ toggle }) => {
         <NavbarContainer>
           <NavLogo to="/" onClick={toggleHome}>
             <FaMagento style={{ marginRight: "10px" }} />
-            BDCL
+            SAAD
           </NavLogo>
           <MobileIcons onClick={toggle}>
             <FaBars />

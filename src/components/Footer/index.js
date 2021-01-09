@@ -45,15 +45,15 @@ const Footer = () => {
         <FooterLinksContainer>
           <FooterLinksWrapper>
             <FooterLinksItems>
-              <FooterLinkTitle> About Us </FooterLinkTitle>
-              <FooterLink to="/signin">How it work</FooterLink>
+              <FooterLinkTitle> About </FooterLinkTitle>
+              <FooterLink to="/signin">History</FooterLink>
               <FooterLink to="/signin">Testimonial</FooterLink>
               <FooterLink to="/signin">Career</FooterLink>
-              <FooterLink to="/signin">Investors</FooterLink>
-              <FooterLink to="/signin">Terms of Service</FooterLink>
+              <FooterLink to="/signin">Educational background</FooterLink>
+              {/* <FooterLink to="/signin">Terms of Service</FooterLink> */}
             </FooterLinksItems>
             <FooterLinksItems>
-              <FooterLinkTitle> Contact us </FooterLinkTitle>
+              <FooterLinkTitle>Awards </FooterLinkTitle>
               <FooterLink to="/signin">How it work</FooterLink>
               <FooterLink to="/signin">Testimonial</FooterLink>
               <FooterLink to="/signin">Career</FooterLink>
@@ -64,7 +64,7 @@ const Footer = () => {
 
           <FooterLinksWrapper>
             <FooterLinksItems>
-              <FooterLinkTitle> Videos </FooterLinkTitle>
+              <FooterLinkTitle> Event </FooterLinkTitle>
               <FooterLink to="/signin">How it work</FooterLink>
               <FooterLink to="/signin">Testimonial</FooterLink>
               <FooterLink to="/signin">Career</FooterLink>
@@ -72,7 +72,7 @@ const Footer = () => {
               <FooterLink to="/signin">Terms of Service</FooterLink>
             </FooterLinksItems>
             <FooterLinksItems>
-              <FooterLinkTitle> Social Media </FooterLinkTitle>
+              <FooterLinkTitle> Contact</FooterLinkTitle>
               <FooterLink to="/signin">How it work</FooterLink>
               <FooterLink to="/signin">Testimonial</FooterLink>
               <FooterLink to="/signin">Career</FooterLink>
@@ -85,8 +85,7 @@ const Footer = () => {
         <SocialMedia>
           <SocialMediaWrap>
             <SocialMediaLogo onClick={toggleHome}>
-              AJEGUNLE DEV DATA CENTER
-            </SocialMediaLogo>
+              HON SAAD.LUKMON OLUMOH            </SocialMediaLogo>
             <WebsiteRight
               href="www.brighterdayscodelab.com.ng"
               target="new page"
@@ -96,7 +95,7 @@ const Footer = () => {
             </WebsiteRight>
             <SocialIcon>
               <SocialIconLink
-                href="https://www.facebook.com/groups/brighterdayscodelab"
+                href="https://www.facebook.com/lukman.olumoh"
                 target="_blank"
                 aria-label="Facebook"
               >
